@@ -29,3 +29,4 @@
 /Users/rterris/Documents/Projects/CloudTest/obj/Debug/net8.0/CloudTest.pdb
 /Users/rterris/Documents/Projects/CloudTest/obj/Debug/net8.0/CloudTest.genruntimeconfig.cache
 /Users/rterris/Documents/Projects/CloudTest/obj/Debug/net8.0/ref/CloudTest.dll
+/Users/rterris/Documents/Projects/CloudTest/obj/Debug/net8.0/CloudTest.sourcelink.json
